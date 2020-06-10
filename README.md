@@ -1,5 +1,6 @@
-##Watson's Stories
-Stories from my son.
+## Watson's Stories
+
+Stories from my my kiddo!  Fun stuff!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
