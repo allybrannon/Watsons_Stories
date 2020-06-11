@@ -4,6 +4,7 @@ import DogSkeleton from "../images/DogSkeleton.jpg";
 function MainPage() {
   return (
     <div style={font}>
+      <h1 style={start}>Stories written by Watson</h1>
       <h1 style={date}> Watson's first story- June 7, 2020</h1>
       <p style={title}>The Dead Dog</p>
       <img src={DogSkeleton} alt="Dog Skeleton" height="200" width="200" />
@@ -30,6 +31,13 @@ function MainPage() {
   );
 }
 
+const start = {
+  margin: "30px",
+  textAlign: "center",
+  fontSize: "30px",
+  fontWeight: "bold",
+  textDecoration: "underline",
+};
 const font = {
   fontFamily: "Patrick Hand",
 };
