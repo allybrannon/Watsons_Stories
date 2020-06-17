@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e13b2b031445ffe9feb24bef16a91572",
+    "revision": "1689a8cf8c13e19b1d53449b4e44fc1d",
     "url": "/Watsons_Stories/index.html"
   },
   {
-    "revision": "ec1c69ed9cb389858e80",
+    "revision": "db8f5df024ce35f23e05",
     "url": "/Watsons_Stories/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Watsons_Stories/static/js/2.0ba7dee6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec1c69ed9cb389858e80",
-    "url": "/Watsons_Stories/static/js/main.81fed76e.chunk.js"
+    "revision": "db8f5df024ce35f23e05",
+    "url": "/Watsons_Stories/static/js/main.9990cdb1.chunk.js"
   },
   {
     "revision": "61fcde63dc2b50a2265c",
