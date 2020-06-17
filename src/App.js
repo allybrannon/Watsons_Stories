@@ -8,13 +8,9 @@ function App() {
   return (
     <Router>
       <div className="App">
-        {/* <Header /> */}
-        <Route exact path="/">
+        <Route exact path="/Watsons_Stories">
           <MainPage />
         </Route>
-        {/* <Route exact path="/about">
-          {/* <About /> */}
-        {/* </Route> */} */}
       </div>
     </Router>
   );
