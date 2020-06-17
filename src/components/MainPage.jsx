@@ -37,8 +37,8 @@ function MainPage() {
           go back. Then Rocket convinces him to fight the guards. After 10 min
           they were dead. Well that was easy, said Jack. They soon found that
           they were in a maze with traps, the first trap they set made it so
-          they could not get out of the maze. 3 hours in the maze is when theyf
-          ound an exit, but they also found a monster so they threw a ball to
+          they could not get out of the maze. 3 hours in the maze is when they
+          found an exit, but they also found a monster so they threw a ball to
           distract the monster so they could get by. Once they were past the
           monster they found themselves in the treasure room. They got some gold
           and went through a door they found under the gold there was 1 guard in

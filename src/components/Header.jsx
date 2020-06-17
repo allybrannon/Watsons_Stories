@@ -5,13 +5,13 @@ function Header() {
   return (
     <header style={headerStyle}>
       <h1 style={h1Style}>Stories written by Watson</h1>
-      <Link style={linkStyle} to="/">
+      {/* <Link style={linkStyle} to="/">
         Home
       </Link>{" "}
       |
       <Link style={linkStyle} to="/about">
         About
-      </Link>{" "}
+      </Link>{" "} */}
     </header>
   );
 }
