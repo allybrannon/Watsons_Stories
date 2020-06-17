@@ -10,10 +10,11 @@ function App() {
       <div className="App">
         <Header />
         <Route exact path="/">
+          <Header/>
           <MainPage />
         </Route>
-        <Route exact path="/about">
-          {/* <About /> */}
+        {/* <Route exact path="/about">
+          <About /> */}
         </Route>
       </div>
     </Router>
