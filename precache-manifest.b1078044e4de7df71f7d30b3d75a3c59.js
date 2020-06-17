@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a57b311f58d948617a7dca5acf1641f1",
+    "revision": "e13b2b031445ffe9feb24bef16a91572",
     "url": "/Watsons_Stories/index.html"
   },
   {
-    "revision": "1e75e5b81f3fbd5bb018",
+    "revision": "ec1c69ed9cb389858e80",
     "url": "/Watsons_Stories/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "e0ed944a7a9255070d8a",
-    "url": "/Watsons_Stories/static/js/2.8a510a90.chunk.js"
+    "revision": "ca91a37bb7674b554d1f",
+    "url": "/Watsons_Stories/static/js/2.0ba7dee6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Watsons_Stories/static/js/2.8a510a90.chunk.js.LICENSE.txt"
+    "url": "/Watsons_Stories/static/js/2.0ba7dee6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e75e5b81f3fbd5bb018",
-    "url": "/Watsons_Stories/static/js/main.9ae2c08d.chunk.js"
+    "revision": "ec1c69ed9cb389858e80",
+    "url": "/Watsons_Stories/static/js/main.81fed76e.chunk.js"
   },
   {
     "revision": "61fcde63dc2b50a2265c",
