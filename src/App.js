@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route exact path="/">
+        <Route exact path="/Watsons_Stories">
           {/* <Header/> */}
           <MainPage />
         </Route>
